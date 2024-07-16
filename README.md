@@ -5,6 +5,14 @@ Also we want to demonstrate that, if you set k = n, the k-cover time of a comple
 
 ### Cover time 
 
+![image1](https://github.com/dariogemo/k_cover_time/blob/main/Pictures/cover_time.png)
+
 ### K-cover time
 
+![image2](https://github.com/dariogemo/k_cover_time/blob/main/Pictures/k-cover_time.png)
+
 ### Confrontation with a logarithmic and a linear scale
+
+![image3](https://github.com/dariogemo/k_cover_time/blob/main/Pictures/confrontation_log.png)
+
+![image4](https://github.com/dariogemo/k_cover_time/blob/main/Pictures/confrontation_linear.png)
